@@ -2,7 +2,7 @@
 
 Money Manager
 
-Money Manager is a simple and intuitive desktop application designed to help you keep track of your budget and finances. Our application will help you control expenses, income and achieve financial goals. It is suitable for both advanced users and beginners, thanks to its user-friendly and simple interface.
+Money Manager is a simple and intuitive android application designed to help you keep track of your budget and finances. Our application will help you control expenses, income and achieve financial goals. It is suitable for both advanced users and beginners, thanks to its user-friendly and simple interface.
 
 Main features:
 
